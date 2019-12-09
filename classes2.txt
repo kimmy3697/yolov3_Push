@@ -1,0 +1,12 @@
+person
+truck
+car
+bicycle
+umbrella
+stroller
+wheel
+scooter
+bus
+trafficlight
+rubbercorn
+person1
